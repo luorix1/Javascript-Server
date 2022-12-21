@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jade": "^1.11.0",
+    "pug": "^3.0.2",
+    "sample": "^0.0.2",
+    "supervisor": "^0.12.0",
+    "underscore": "^1.13.6"
+  },
+  "name": "js_server",
+  "version": "1.0.0",
+  "description": "Test project for learning nodeJS",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jinwoo Hwang",
+  "license": "ISC"
+}
